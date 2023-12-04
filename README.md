@@ -1,4 +1,4 @@
-[![MasterHead](https://as2.ftcdn.net/v2/jpg/01/91/46/17/1000_F_191461737_liYqH41WYmRaGXAKsb0GBnrIoP82iHfJ.jpg)](https://rishavchanda.io)
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/01/91/46/17/1000_F_191461737_liYqH41WYmRaGXAKsb0GBnrIoP82iHfJ.jpg)]
 
 <h1 align="center">Hi 👋, I'm Nuz.</h1>
 <h3 align="center">A passionate product manager based out of USA. Currently working at a a major payments network providing tokenization services.</h3>
